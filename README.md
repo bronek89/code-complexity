@@ -5,7 +5,7 @@ Class for check code complexity score of php code.
 ## Install
 
 ```
-composer require bronek89/code-complexity
+composer require bronek/code-complexity
 ```
 
 ## Usage
